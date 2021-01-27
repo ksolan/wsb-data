@@ -1,10 +1,10 @@
 ## Reddit r/wallstreetbets hot posts dataset
 
-The top 100 "hot" posts from r/wallstreetbets posts scraped every hour on the hour.
+The top 100 "hot" posts from r/wallstreetbets posts pulled via the Reddit API every hour on the hour.
 
 ### Structure
 
-Posts are stored in directories in the structure `<year>/<month>/<day>/<UTC timestamp>/`, indicating what date and time the scrape was run.
+Posts are stored in directories in the structure `<year>/<month>/<day>/<UTC timestamp>/`, indicating what date and time the pull was run.
 
 ### File format
 
